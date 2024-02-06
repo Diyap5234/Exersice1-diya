@@ -42,7 +42,7 @@ public class CardTrick {
     /**
      * A simple method to print out personal information.
      * @author - diya patel
-     * @date - 06 02 2024
+     * @date - 06 feb 2024
      */
     private static void printInfo() {
         System.out.println("Congratulations, you picked the right card!");
